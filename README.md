@@ -3,7 +3,7 @@ Greedy Pelican / @greedypelican
 
 
 Interested in
-- Data Science (Analysis & Engineering)
+- Data Science (Analytics & Engineering)
 - Machine Learning
 - Signal Processing (Human body information)
 - Human-Computer Interaction
