@@ -1,9 +1,8 @@
-Greedy Pelican / @greedypelican
-- Hanbat National University Computer Engineering Undergraduate Senior 
-
+Haryun Jeong
+- Graduate Student
+- Department of Information and Communication Engineering, Sejong Univercity
 
 Interested in
-- Data Science (Analytics & Engineering)
-- Machine Learning
-- Signal Processing (Human body information)
+- Reinforcement Learning
+- Robot Software
 - Human-Computer Interaction
