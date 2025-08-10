@@ -3,6 +3,5 @@ Haryun Jeong
 - Department of Information and Communication Engineering, Sejong Univercity
 
 Interested in
-- Robot Software
-- Artificial Intelligence
-- Human-Computer Interaction
+- Robot Learning
+- Human-Robot Interaction
